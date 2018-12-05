@@ -1,5 +1,3 @@
-Simple webpack project template for development using PostCSS.
-
 # Getting Started
 
 1. `clone` repository or download in `zip` format
